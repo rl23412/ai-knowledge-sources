@@ -1,0 +1,5 @@
+This is a sample knowledge text file.
+It contains information that can be used to fine-tune the AI model.
+Line 1: The history of AI is fascinating.
+Line 2: Modern AI builds on decades of research.
+Line 3: Continuous learning is key to advancement.

@@ -1,0 +1,5 @@
+{
+  "update": true,
+  "baseline_model": "distilbert-base-uncased",
+  "num_labels": 2
+}
